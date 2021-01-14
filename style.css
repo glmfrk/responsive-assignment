@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+
+h1,h2,h3,h4,h5,h6{
+    color: #363958;
+
+}
+a, span{
+    color: #363958;
+
+}
+a, span{
+    color: #FABE4C;
+}
+section{
+  width: auto;
+  height: auto;
+}
+#about_service_details{
+  background-color: #f8f9fa!important;
+    height:auto;
+}
+#About{
+    width: 100%;
+    max-height: 650px;
+    background-color: bisque;
+   
+}
+.profile_bg_image {
+    margin-top: 80px;
+    background-color: bisque;
+    border-radius: 32%;
+    -webkit-border-radius: 32%;
+    -moz-border-radius: 32%;
+    -ms-border-radius: 32%;
+    -o-border-radius: 32%;
+}
+.profile_bg_image img.bg_image{
+    border-radius: 30% !important;
+    -webkit-border-radius: 30% !important;
+    -moz-border-radius: 30% !important;
+    -ms-border-radius: 30% !important;
+    -o-border-radius: 30% !important;
+}
+footer {
+    background: #222;
+    color: #aaa;
+    padding-top: 10px;
+  }
+  
+  footer a:hover {
+    color: #fff;
+  }
+  
+  footer h3 {
+   color: #0894d1;
+    letter-spacing: 1px;
+    margin: 30px 0 20px;
+  }
+  
+  
+  footer .copyright {
+    padding: 15px 0;
+    background: #333;
+    margin-top: 20px;
+    font-size: 15px;
+  }
+  
+  footer .copyright span {
+    color: #0894d1;
+  }
+#latest_Work_wrap .wrok_img {
+    width:25%;
+    height: auto;
+    overflow: hidden !important;
+  } 
